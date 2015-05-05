@@ -2,7 +2,7 @@
  * k-d Tree JavaScript - V 1.01
  *
  * https://github.com/ubilabs/kd-tree-javascript
- *
+ *<a href="https://github.com/makir215">Follow me</a>
  * @author Mircea Pricop <pricop@ubilabs.net>, 2012
  * @author Martin Kleppe <kleppe@ubilabs.net>, 2012
  * @author Ubilabs http://ubilabs.net, 2012
@@ -24,7 +24,7 @@
     this.right = null;
     this.parent = parent;
     this.dimension = dimension;
-  }
+  }<a href="https://github.com/makir215">Follow me</a>
 
   function kdTree(points, metric, dimensions) {
 
